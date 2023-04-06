@@ -1,7 +1,17 @@
 # OI-XCPC-environment
+
 OI/XCPC比赛环境整合
 
 基础环境为Windows10/11，Linux/Mac用户可尝试寻找类似软件进行替代。
+
+## 系统镜像
+
+* WIndows（个人推荐WIn10）
+  * 原版镜像：[MSDN我告诉你](https://msdn.itellyou.cn/)
+  * 第三方镜像：[WindSys](https://windsys.win/)
+* Linux
+  * [Ubuntu](https://ubuntu.com/download/desktop)
+  * [Deepin](https://www.deepin.org/zh/download/)
 
 ## 系统工具
 
@@ -46,6 +56,6 @@ OI/XCPC比赛环境整合
 ## Python
 
 * [本体](https://www.python.org/downloads/)
-*  [PyCharm 社区版](https://www.jetbrains.com/pycharm/download/#section=windows)
+* [PyCharm 社区版](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 推荐：只安装本体，搭配VSCode使用
