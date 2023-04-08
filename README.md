@@ -39,8 +39,10 @@ OI/XCPC比赛环境整合
 ## C/C++
 
 * [Dev C++](https://pc.qq.com/detail/16/detail_163136.html)（虽然不用，但是建议本机备一个）
+* TDM-GCC
+* MinGW-w64
 
-推荐：全部安装，搭配VSCode使用
+推荐：安装Dev C++(在特定比赛场合)，安装一个编译器并搭配VSCode使用
 
 ## Java
 
