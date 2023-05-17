@@ -33,12 +33,14 @@ OI/XCPC比赛环境整合
 
 * [Visual Studio Code](https://code.visualstudio.com/)（加上对应语言插件）
 * [Notepad3](https://www.rizonesoft.com/downloads/notepad3/)（建议安装完后劫持一下映像，换掉自带笔记本）
+* [Sublime Text](https://www.sublimetext.com/)
 
-推荐：全部安装
+推荐：VSCode + Notepad3
 
 ## C/C++
 
 * [Dev C++](https://pc.qq.com/detail/16/detail_163136.html)（虽然不用，但是建议本机备一个）
+* [CodeBlocks](https://www.codeblocks.org/)（看个人用不用）
 * [TDM-GCC](https://sourceforge.net/projects/tdm-gcc/)（选最新的10.3.0版本）
 * MinGW-w64
 
